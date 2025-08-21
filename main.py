@@ -1,8 +1,6 @@
 from pyairtable import Api
 import pandas as pd
-import pyairtable
 import json
-import random
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
@@ -133,9 +131,10 @@ if highest_id is not None:
             start_index = i
             break
 
-print(f"starting at index {start_index}")
+
 try:
     print("Press Ctrl+C to stop.")
+
     for chat in Chat_Histories[start_index:]:
         new_prompt = chat.get('message')
         new_response = chat.get('response')
