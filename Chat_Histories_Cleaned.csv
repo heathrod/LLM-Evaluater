@@ -1,0 +1,856 @@
+supabase_id,user_id,session_id,message,response,Tags,Priority,Notes,context,created_at,synced_at
+246.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,bf2890d1-ec97-4a9f-a1d2-91e91b322189,can you make my athletic resume with all the info you know about me,"Absolutely! Here’s a simple template for your athletic resume based on the information you've provided. You can fill in the details and adjust it as needed:
+
+---
+
+**Marcus Lee**  
+[Your Phone Number]  
+[Your Email Address]  
+[Your Address]  
+[Your City, State, Zip]  
+
+**Objective**  
+Dedicated water polo athlete aiming to play at the collegiate level, particularly at USC, while maintaining strong academic performance.
+
+**Athletic Profile**  
+- **Sport**: Water Polo  
+- **Position**: Wing  
+- **Height**: 5'9"" (176 cm)  
+- **Weight**: 163 lbs (74 kg)  
+- **50m Swim Time**: 31 seconds  
+
+**Academic Profile**  
+- **Current School**: Loyola  
+- **GPA**: 3.1  
+- **Academic Awards**: [List any relevant awards or honors, if applicable]  
+
+**Extracurricular Activities**  
+- [List any extracurricular activities, such as community service, clubs, or leadership roles, if applicable]  
+
+**Coach Information**  
+- **Coach Name**: [Your Coach's Name]  
+- **Coach Email**: [Your Coach's Email]  
+- **Coach Phone**: [Your Coach's Phone Number]  
+
+**Athletic Achievements**  
+- [List any athletic awards or recognitions you may have received, if applicable]  
+
+**References**  
+- Available upon request.
+
+---
+
+Now, let’s take action! Fill in any missing sections and tailor it to your style. This will help you present yourself effectively to coaches.
+
+Commit to completing this resume by the end of the week. You're the type of athlete who prepares thoroughly!",Database,High,not pulling info from mod 1,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":9,""gender"":""Men"",""similarity"":0.7409778061443,""entity_name"":""D2 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.739391547260151,""entity_name"":""D1 Tier 2 Men's Water Polo Division""},{""id"":10,""gender"":""Men"",""similarity"":0.739227973954683,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":64,""gender"":""Men"",""similarity"":0.739004015922594,""entity_name"":""MIT Engineers""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""knowledge_results"":[{""id"":3,""title"":""Recruiting Timeline - Junior Year"",""similarity"":0.769433159130793}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/31/2025 10:18am,7/31/2025 10:18am
+242.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,bf2890d1-ec97-4a9f-a1d2-91e91b322189,who is the head coach of usc mens waterpolo,"The head coach of the USC men's water polo team is Jovan Vavic. He has been a significant figure in the program and has achieved great success with the Trojans.
+
+Now, let's take action! Research Jovan Vavic’s coaching style or accomplishments and think about how you could fit into his program. This will help you tailor your communication when you reach out to him.
+
+Commit to sending him a thoughtful email within the next week, introducing yourself and expressing your interest in USC. You're the type of athlete who takes initiative!",Database,High,Outdated incorrect info. Head coach is not vavic,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":1,""title"":""College Water Polo Recruiting Guide - Overview"",""similarity"":0.738965037115803},{""id"":4,""title"":""Recruiting Timeline - Senior Year"",""similarity"":0.645143491608685},{""id"":15,""title"":""NCAA Rules and Eligibility Center"",""similarity"":0.632992831947128}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/31/2025 10:07am,7/31/2025 10:07am
+220.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,032a5848-5488-4c09-805a-054d1c160da1,what are my athletic accomplishmets ,"It looks like you haven't listed specific athletic accomplishments yet. However, you can start gathering and highlighting your achievements in a few key areas. Here’s a simple way to structure your athletic accomplishments:
+
+1. **Individual Honors**: List any individual awards you’ve received, such as:
+   - All-League or All-CIF selections
+   - MVP awards
+   - Participation in any national or regional teams
+
+2. **Team Achievements**: Include achievements that highlight your team’s success, like:
+   - Championships or titles won with your high school or club team
+   - Significant tournament placements
+   - Years played and any captaincy roles
+
+3. **Statistical Highlights**: You can mention specific stats that showcase your performance, like:
+   - Goals scored, assists, or steals per game
+   - Swim times or other relevant metrics that demonstrate your athleticism
+
+4. **Club Participation**: Mention any clubs you’ve played for and any notable achievements there.
+
+Taking a moment to compile this information will help you present a strong case to coaches. If you need help organizing these accomplishments or want to brainstorm what to include, just let me know! 
+
+As a commitment, take 10 minutes today to write down any athletic honors or statistics you can recall. This small step will move you closer to creating a strong recruiting resume.",Database,High,couldn't pull athletic accomplishments given through mod 1,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":7,""type"":""guide"",""title"":""Resume Development"",""similarity"":0.797755622462449},{""id"":15,""type"":""guide"",""title"":""NCAA Rules and Eligibility Center"",""similarity"":0.776068829776936},{""id"":3,""type"":""guide"",""title"":""Recruiting Timeline - Junior Year"",""similarity"":0.774878319334742}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/24/2025 11:30am,7/24/2025 11:30am
+218.0,1e770f8c-1926-45ac-854a-ce0894682e69,6ac55edc-5df9-4c1e-a2cf-03e618bc708f,what althletic achivments do I have and how do they look to coaches?,"You have some impressive athletic achievements, Grant! Here’s a breakdown of your strengths and how they appeal to coaches:
+
+1. **50m Swim Time: 25 seconds**
+   - This time shows your speed and endurance, crucial for water polo. Coaches look for athletes who can swim quickly to transition effectively in games.
+
+2. **Height: 6'3"" (190cm)**
+   - Your height gives you an advantage in reach and visibility in the water, making you a valuable player for both offense and defense.
+
+3. **Strong Academic Record: GPA of 4**
+   - Coaches appreciate athletes who excel academically. It shows dedication, discipline, and the ability to balance sports with academics.
+
+These achievements position you as a strong candidate for college water polo programs. Coaches are looking for talented athletes who can contribute both in the pool and in the classroom.
+
+For your next step, list out any recent games or tournaments where you've performed well. Commit to sending an update email to prospective coaches with that information by the end of the week! 📅",Database,High,couldn't pull athletic accomplishments given through mod 1,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":8,""type"":""guide"",""title"":""Email Communication - Best Practices"",""similarity"":0.76372954085718},{""id"":18,""type"":""guide"",""title"":""Parental Role in Recruiting"",""similarity"":0.757646873137575},{""id"":10,""type"":""guide"",""title"":""Phone Call Etiquette and Scripts"",""similarity"":0.756714472885707}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/24/2025 11:13am,7/24/2025 11:13am
+217.0,1e770f8c-1926-45ac-854a-ce0894682e69,6ac55edc-5df9-4c1e-a2cf-03e618bc708f,can you givem e links to these programs,"Sure, Grant! Here are links to the water polo programs for the schools we discussed:
+
+1. **USC Trojans Water Polo:**
+   - [USC Men's Water Polo](https://usctrojans.com/sports/mens-water-polo)
+
+2. **UCSB Gauchos Water Polo:**
+   - [UCSB Men's Water Polo](https://ucsbathletics.com/sports/mens-water-polo)
+
+3. **Pomona-Pitzer Sagehens Water Polo:**
+   - [Pomona-Pitzer Men's Water Polo](https://www.pomona-pitzerathletics.com/sports/mens-water-polo)
+
+4. **CMS Stags Water Polo:**
+   - [Claremont-Mudd-Scripps Men's Water Polo](https://cmsathletics.org/sports/mens-water-polo)
+
+These links will give you insights into their programs, coaching staff, and upcoming events. 
+
+For your next step, choose one link and spend 30 minutes exploring the program. Commit to taking notes on what interests you! 📝",Database,High,two out of 4 links are invalid and they should all be hyperlinked,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":76,""gender"":""Men"",""similarity"":0.691540127074648,""entity_name"":""CUI Golden Eagles""},{""id"":80,""gender"":""Men"",""similarity"":0.689330547175166,""entity_name"":""Gannon Golden Knights""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""knowledge_results"":[{""id"":9,""type"":""guide"",""title"":""Email Examples and Templates"",""similarity"":0.73213233160184},{""id"":5,""type"":""guide"",""title"":""College Research - Strategy and Resources"",""similarity"":0.723776643613876},{""id"":15,""type"":""guide"",""title"":""NCAA Rules and Eligibility Center"",""similarity"":0.720704350387537}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/24/2025 11:06am,7/24/2025 11:06am
+214.0,1e770f8c-1926-45ac-854a-ce0894682e69,6ac55edc-5df9-4c1e-a2cf-03e618bc708f,what have I already done to start my recruiting process,"You're already on a solid path, Grant! With your impressive GPA of 4 and swim time of 25 seconds, you're building a strong foundation for your recruitment.
+
+Here’s what you've done so far:
+- You have identified your dream school, USC, and a reach school, UCSB.
+- You know your coach's contact details, which is crucial for outreach.
+- You’re actively developing your skills in water polo and maintaining a strong academic record.
+
+Now, let’s take the next step! Draft a short email to your coach highlighting your achievements and expressing your interest in college recruitment. Commit to sending it by the end of the day! 📧",Knowledge Gap,High,telling me I already have coaches contact? I think it means my coach is collage coach.,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":13,""type"":""guide"",""title"":""On-Deck Recruitment - Making a Strong Impression"",""similarity"":0.776956581382658},{""id"":1,""type"":""guide"",""title"":""College Water Polo Recruiting Guide - Overview"",""similarity"":0.768660760859841},{""id"":12,""type"":""guide"",""title"":""Visit Questions - What to Ask and Answer"",""similarity"":0.746523864256492}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/24/2025 11:01am,7/24/2025 11:01am
+189.0,48c3b58e-5452-440a-bc2a-e9c13f2af69e,a882bded-1804-4b80-9f8d-0d2cddccec71,How can I make up for lost time if I don’t have a highlight video ready—what should I send coaches first to get on their radar quickly?,"Starting is winning. Even without a highlight video, you can still make a strong impression. Here’s how to get on coaches' radars quickly:
+
+1. **Send a Short Bio**: Write a brief introduction about yourself. Include your name, position, height, weight, GPA, and swim time. This shows your athletic and academic commitment.
+
+2. **Express Interest**: Share why you’re interested in their program. Mention any specific aspects that appeal to you, like their coaching style or recent achievements.
+
+3. **Offer to Share More**: Let them know you’re working on your highlight video and would love to share it once it’s ready. This keeps the door open for future communication.
+
+For your next step, draft that introductory email tonight. After dinner, spend 15 minutes writing it. You're the type of athlete who takes action! Let me know when you send it! 📧",Knowledge Gap,Mid,LLM shouldn't be telling me to draft and email as my next step because I just asked it to draft a email in a earlier promt.,"{""user_gender"":""Female"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[],""knowledge_docs_used"":false,""division_averages_used"":false}",7/17/2025 2:07pm,7/17/2025 6:17pm
+188.0,48c3b58e-5452-440a-bc2a-e9c13f2af69e,a882bded-1804-4b80-9f8d-0d2cddccec71,don't you know my dream school I filled it out?,"You're right, my mistake! I don’t have specific information about your dream school. However, you can easily add that in. Just replace ""[School Name]"" with your dream school’s name and adjust any specific details about their program that excite you.
+
+Remember, personalizing your email will make it stand out. Highlight what you admire about their program or recent achievements. 
+
+Take a moment to fill in those details, and then send that email. You're the type of athlete who goes after what she wants! Let me know when you send it! 🌟",Database,High,LLM cant access the data of the schools that was edited/submitted in account creation.,"{""user_gender"":""Female"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":5,""type"":""guide"",""title"":""College Research - Strategy and Resources"",""similarity"":0.747546232724894},{""id"":6,""type"":""guide"",""title"":""College Research - Categories and Timeline"",""similarity"":0.740160897960642},{""id"":15,""type"":""guide"",""title"":""NCAA Rules and Eligibility Center"",""similarity"":0.739144921302816}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/17/2025 2:06pm,7/17/2025 6:17pm
+185.0,9b5e08e7-5794-4427-847e-5900f395fe40,568d99ed-18df-4945-8015-7ce7caf5cdab,what are the most important things to show for a water polo highlight reel?,"Creating a standout water polo highlight reel is essential for showcasing your skills! Here are the most important things to include:
+
+1. **Scoring Plays**: Highlight your best goals and assists. Show your ability to create scoring opportunities and finish plays effectively.
+
+2. **Defensive Skills**: Include clips of strong defensive plays, such as steals, blocks, and good positioning. Coaches want to see your ability to contribute on both ends of the pool.
+
+3. **Swimming Speed and Agility**: Showcase your swimming ability. Include clips where you demonstrate speed in transitions, quickness in counterattacks, and agility in the water.
+
+4. **Game Awareness**: Show your understanding of the game. Include clips where you make smart decisions, like setting up plays or positioning yourself effectively.
+
+5. **Teamwork and Communication**: Highlight interactions with teammates. Clips showing you communicating, setting screens, or working together during plays can demonstrate your ability to work well in a team setting.
+
+6. **Physicality and Toughness**: Water polo is a physical sport. Include clips that show your ability to hold your ground, battle for position, and maintain composure under pressure.
+
+7. **Versatility**: If you play multiple positions or have a range of skills, include clips that showcase your versatility. This can make you more appealing to coaches.
+
+Aim for a total length of about 3-5 minutes, focusing on your best plays. Remember to keep it engaging and flow smoothly! 
+
+Make it your goal to create a draft of your highlight reel by the end of the week! You're the type of athlete who knows how to shine. Let me know if you need help along the way! 🌟",Knowledge Gap,High,Needs to learn more about highlight reel best practices,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":1,""type"":""guide"",""title"":""College Water Polo Recruiting Guide - Overview"",""similarity"":0.806452201258611},{""id"":13,""type"":""guide"",""title"":""On-Deck Recruitment - Making a Strong Impression"",""similarity"":0.805268501293333},{""id"":7,""type"":""guide"",""title"":""Resume Development"",""similarity"":0.796698916253553}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/17/2025 11:25am,7/17/2025 6:17pm
+184.0,9b5e08e7-5794-4427-847e-5900f395fe40,568d99ed-18df-4945-8015-7ce7caf5cdab,what online resources do i have if im not technical enough,"No problem, Jason! If you're not very technical, there are user-friendly online resources that can help you create a highlight reel easily:
+
+1. **Canva**: This platform has a simple video editing feature. You can drag and drop your clips, add text, and choose from various templates. It’s very intuitive and requires no prior experience.
+
+2. **Kapwing**: Another easy-to-use online editor that allows you to upload videos, trim them, and add text or music. They have a straightforward interface perfect for beginners.
+
+3. **Animoto**: This is a great tool for creating videos with templates. You can upload your clips, and it helps you create a polished video with minimal effort.
+
+4. **WeVideo**: An online video editor that offers templates and easy editing tools. You can add text, transitions, and music, making it simple to create a highlight reel.
+
+5. **Adobe Spark**: This tool allows you to create engaging videos with a user-friendly interface. You can use their templates to get started quickly.
+
+6. **YouTube Editor**: If you already have clips uploaded to YouTube, their built-in editor allows you to trim videos and add music directly on the platform.
+
+Choose one of these platforms and start experimenting with your footage. Make it your goal to create a draft of your highlight reel by the end of the week! You're the type of athlete who finds solutions. Let me know if you need any more help! 🌟",Knowledge Gap,Low,Needs to learn more about highlight reel best practices,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":5,""type"":""guide"",""title"":""College Research - Strategy and Resources"",""similarity"":0.749345980565138},{""id"":19,""type"":""guide"",""title"":""Social Media Presence"",""similarity"":0.724203977083686},{""id"":2,""type"":""guide"",""title"":""Recruiting Timeline - Freshman and Sophomore Years"",""similarity"":0.71277516255823}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/17/2025 11:16am,7/17/2025 6:17pm
+183.0,9b5e08e7-5794-4427-847e-5900f395fe40,568d99ed-18df-4945-8015-7ce7caf5cdab,how do i make a highlight reel?,"Creating a highlight reel is a great way to showcase your skills! Here’s a simple step-by-step process to help you make one:
+
+1. **Gather Footage**: Collect clips from your games and practices. Look for moments where you perform well, such as scoring goals, making assists, or strong defensive plays.
+
+2. **Choose a Video Editing Tool**: Use a simple video editing app or software. Some popular options include:
+   - iMovie (for Mac users)
+   - Windows Movie Maker (for PC users)
+   - Online tools like Canva or Kapwing
+
+3. **Select the Best Clips**: Aim for 3-5 minutes of your best plays. Highlight different aspects of your game, such as:
+   - Offensive skills (goals, assists)
+   - Defensive skills (blocks, steals)
+   - Swim speed and agility
+
+4. **Add Music and Text**: Choose upbeat background music if you want. Add text overlays with your name, position, and relevant stats (GPA, swim time). This helps coaches remember you!
+
+5. **Keep It Engaging**: Start strong with your best play. Edit the clips together smoothly, ensuring it flows well. Avoid long pauses or downtime in the video.
+
+6. **Export and Share**: Once you’re happy with the final product, export it in a format suitable for sharing. Upload it to a platform like YouTube or Vimeo, and make sure it's set to public or unlisted (so you can share the link).
+
+7. **Test the Link**: Before sending it to coaches, test the link to make sure it works properly.
+
+Now, make it your goal to start working on your highlight reel this week! You're the type of athlete who takes initiative. Let me know when you have it ready or if you need more help! 🌟",Knowledge Gap,Low,Needs to learn more about highlight reel best practices,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""knowledge_results"":[{""id"":7,""type"":""guide"",""title"":""Resume Development"",""similarity"":0.759158424214274},{""id"":13,""type"":""guide"",""title"":""On-Deck Recruitment - Making a Strong Impression"",""similarity"":0.751604780267816},{""id"":19,""type"":""guide"",""title"":""Social Media Presence"",""similarity"":0.741331802368439}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/17/2025 11:16am,7/17/2025 6:17pm
+182.0,9b5e08e7-5794-4427-847e-5900f395fe40,568d99ed-18df-4945-8015-7ce7caf5cdab,you have my phone #,"I appreciate your trust, Jason! However, I don’t have access to your specific phone number. You'll need to fill that in yourself. 
+
+Here’s the email again, ready for you to personalize:
+
+---
+
+**Subject:** Introduction from a Prospective Student-Athlete
+
+Hi Coach Abramson,
+
+I hope this email finds you well! My name is Jason Bourne, and I’m a center for my high school water polo team in California. I’m reaching out because I’m very interested in learning more about the UC San Diego water polo program and the opportunities available for student-athletes.
+
+I’m currently maintaining a 3.8 GPA and have a 50m swim time of 21 seconds. I am passionate about improving my skills and contributing to a competitive team like UCSD's. You can check out my highlight reel here: [insert your highlight reel link].
+
+I would love the chance to discuss my potential fit for your program and learn more about the team culture at UC San Diego. Thank you for your time, and I look forward to hearing from you!
+
+Best,  
+Jason Bourne  
+[Your Phone Number]  
+[Your Social Media or Athletic Profile Link]
+
+---
+
+Just fill in your phone number and the link to your highlight reel. Once you're ready, send that email! You're taking a big step in your recruiting journey. Let me know when you send it! 🌟",Database,Mid,,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":72,""gender"":""Men"",""similarity"":0.672758579254155,""entity_name"":""Whittier Poets""},{""id"":67,""gender"":""Men"",""similarity"":0.669771512997171,""entity_name"":""Johns Hopkins Blue Jays""},{""id"":73,""gender"":""Men"",""similarity"":0.668486416665272,""entity_name"":""La Verne Leopards""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""knowledge_results"":[{""id"":10,""type"":""guide"",""title"":""Phone Call Etiquette and Scripts"",""similarity"":0.764787034122763},{""id"":8,""type"":""guide"",""title"":""Email Communication - Best Practices"",""similarity"":0.70386960552581},{""id"":2,""type"":""guide"",""title"":""Recruiting Timeline - Freshman and Sophomore Years"",""similarity"":0.700030076511004}],""knowledge_docs_used"":true,""division_averages_used"":false}",7/17/2025 11:15am,7/17/2025 6:17pm
+171.0,43f76042-dc1c-4f30-9c7b-de2621297c35,ef8ae1b2-e28a-4f1b-a9f9-d5353c5df021,can you give me his email,"I understand you're looking for contact information, but I can't provide personal email addresses for coaches or individuals. However, you can typically find contact information for coaches on the official USC athletics website.
+
+To take action, visit the USC athletics site and look for the staff directory under the women's water polo section. This is where you can find professional contact details for coaches. You're the type of athlete who knows how to connect with the right people for your goals!",Database,High,Gave outdated info on usc women head coach as of 2019 vavic was let go,"{""user_gender"":""Female"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""division_averages_used"":false}",7/16/2025 3:37pm,7/17/2025 12:15am
+167.0,43f76042-dc1c-4f30-9c7b-de2621297c35,ef8ae1b2-e28a-4f1b-a9f9-d5353c5df021,can you give me a link to the men's water polo page for UCSD,"Starting is winning! While I can't provide direct links, I can help you find the information you need for the UCSD men's water polo program. Here’s how to locate it:
+
+1. Open your web browser.
+2. Type ""UCSD men's water polo"" into the search bar.
+3. Look for the official athletics website link that appears in the search results.
+
+This will direct you to the men's water polo program page, where you can find details about the team, coaches, and any relevant information.
+
+To take action, take a few minutes to explore their page and learn more about the program. You're the type of athlete who seeks valuable information for success!",Database,High,cant give mens ether,"{""user_gender"":""Female"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""division_averages_used"":false}",7/16/2025 3:35pm,7/17/2025 12:15am
+166.0,43f76042-dc1c-4f30-9c7b-de2621297c35,ef8ae1b2-e28a-4f1b-a9f9-d5353c5df021,Give me the link to the womens water polo page at UCSD,"Starting is winning! While I can't provide direct links, I can guide you on how to find the UCSD women's water polo page easily. Here’s what you can do:
+
+1. Open your web browser.
+2. Type ""UCSD women's water polo"" into the search bar.
+3. Look for the official athletics website link, which should be one of the top results.
+
+This will take you directly to the women's water polo program page, where you can find all the information you need.
+
+To take action, spend a few minutes exploring their website to learn more about the team and recruiting process. You're the type of athlete who is proactive about your future!",Database,High,Cant provide a link for women's water polo at ucsd,"{""user_gender"":""Female"",""ncaa_results"":[{""id"":28,""gender"":""Women"",""similarity"":0.84819651928114,""entity_name"":""University of California, San Diego""},{""id"":81,""gender"":""Women"",""similarity"":0.83901981958576,""entity_name"":""California State University, Fresno""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/16/2025 3:34pm,7/17/2025 12:15am
+136.0,3a77777f-8617-43f4-a1b5-5644d22a7444,260d40d3-e40f-4267-b094-8d94bde8a186,"I was sent this how should I respond Subject: Opportunity with San José State Men's Water Polo
+
+Hi Marco,
+
+I hope you're doing well. My name is [Coach's Name], and I’m the Head Coach of the men’s water polo program here at San José State University.
+
+I had the chance to review some of your video and background information, and I’m impressed by your speed and awareness in transition. You show solid instincts as a driver and a clear work ethic in both the pool and classroom. We value athletes who bring versatility and energy to every possession—qualities you seem to demonstrate consistently.
+
+While we’re still finalizing our recruiting class, I’d like to learn more about your goals and interest in competing at the collegiate level. SJSU is a Division I program in the Golden Coast Conference, and while we’re a competitive environment, we’re always looking for motivated student-athletes who are eager to grow and contribute.
+
+If you're seriously considering playing water polo in college and believe SJSU might be a fit, I encourage you to reply with the following:
+
+Your most recent academic transcripts and test scores (if available)
+
+Any updated highlight footage or game film
+
+Your current club/high school schedule
+
+Let’s set up a time to talk more about what our program is looking for and how you might fit in here.
+
+Looking forward to hearing from you.
+
+Best regards,
+[Coach's Full Name]
+Head Coach – Men’s Water Polo
+San José State University","Starting is winning! This is a great opportunity, and your response can make a strong impression. Here’s how to reply:
+
+---
+
+**Subject**: Re: Opportunity with San José State Men's Water Polo
+
+Hi Coach [Coach's Last Name],
+
+Thank you for reaching out! I appreciate your kind words about my video and abilities. I'm very excited about the possibility of joining the San José State men's water polo program.
+
+I’m committed to my academic and athletic goals, and I believe SJSU could be a great fit for me. Attached are my most recent academic transcripts and test scores, along with updated highlight footage from my recent games. My current high school schedule is also included below:
+
+- [List your upcoming games or events here]
+
+I would love to set up a time to talk and learn more about your program. Please let me know your availability.
+
+Thank you again for this opportunity!
+
+Best regards,  
+Marco Luca  
+[Your Contact Information]  
+
+---
+
+You’re the type of athlete who knows how to seize opportunities! 
+
+Commit to sending this email within the next day to keep the momentum going.",Persona / Interaction,High,sdtarting is winning!!,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":54,""gender"":""Men"",""similarity"":0.850823189342722,""entity_name"":""San Jose State Spartans""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":true}",7/14/2025 11:28am,7/14/2025 11:36pm
+131.0,3a77777f-8617-43f4-a1b5-5644d22a7444,260d40d3-e40f-4267-b094-8d94bde8a186,"How do I write an email to a college coach that actually gets noticed and doesn’t get ignored—what should I include besides my stats and GPA?
+
+","Starting is winning! Writing an email that gets noticed is key to making a strong impression. Here’s what to include beyond your stats and GPA:
+
+1. **Personal Touch**: Start with a greeting using the coach's name. Mention something specific about their program, like recent successes or coaching philosophy, to show genuine interest.
+2. **Your Passion**: Share why you love water polo and what drives you as an athlete. Coaches appreciate hearing about your dedication beyond just numbers.
+3. **Future Goals**: Briefly explain your academic and athletic goals. This shows that you’re thinking ahead and are serious about your future.
+
+Here’s a simple template to help you get started:
+
+---
+
+**Subject**: Passionate About Joining [School Name] Water Polo
+
+Hi Coach [Last Name],
+
+I hope you’re well! I’m Marco Luca, a wing player at [Your School]. I admire how [School Name] has excelled in [specific achievement]. Water polo has been my passion, and I’m eager to contribute to your program.
+
+With a 50m swim time of 25.2 seconds and a GPA of 3.6, I’m focused on continuous improvement. I would love to learn more about your program and how I can fit in!
+
+Thank you for your time!
+
+Best,  
+Marco Luca
+
+---
+
+You’re the type of athlete who knows how to make an impact! 
+
+Commit to drafting this email tonight and sending it out by the end of the week.",Knowledge Gap,Mid,Drafted email but said ur school name instead of plugging in school name that was already given in acc setup.,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""division_averages_used"":false}",7/14/2025 11:02am,7/14/2025 11:36pm
+111.0,6a702456-d4fa-4ab5-99f4-a31b2c2cbb2f,2862fd5e-5e31-4b19-9cf4-bd53bd0c745c,what are my chances of making it into USC?,"Your chances of making it into USC are within reach! They seek athletes who excel both in the pool and academically. Here’s a closer look:
+
+- **Height and Position**: USC Trojans men's water polo players average 6'2"" (74 inches). As a center, height can be an advantage, but skills and teamwork matter more. Focus on improving your gameplay.
+
+- **Academic Excellence**: USC values high academic achievement. With your 4.1 GPA, you’re already ahead of the curve. Only 0% of their athletes received academic awards, so maintaining your grades can set you apart.
+
+- **Athletic Achievements**: USC has a competitive environment, with only 10% of players achieving championships. Consistent performance in tournaments and showcases can help you gain visibility.
+
+Your next step? After dinner, spend 10 minutes reviewing your gameplay from today’s practice. This will help you identify areas to improve and enhance your skills! Keep pushing forward! 💪",Persona / Interaction,Low,"""Only 0% of their athletes received academic awards""","{""user_gender"":null,""ncaa_results"":[{""id"":99,""gender"":""Men"",""similarity"":0.777458144577854,""entity_name"":""USC Trojans""},{""id"":17,""gender"":""Women"",""similarity"":0.774889482564362,""entity_name"":""USC Trojans""},{""id"":100,""gender"":""Men"",""similarity"":0.749080993262503,""entity_name"":""UC Santa Barbara Gauchos""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/12/2025 9:05pm,7/13/2025 8:54pm
+110.0,6a702456-d4fa-4ab5-99f4-a31b2c2cbb2f,4e44f6b1-559a-4218-a8e6-e8ffa2c1bcbc,how can i make it into a div 1 school?,"Starting is winning. To make it into a Division 1 water polo school, focus on small, consistent actions. Here’s your game plan:
+
+- **Improve Your Skills**: Work on your swim time. You're currently 2.3 seconds away from the D1 average of 23.2 seconds. If you aim to improve by just 0.1 seconds each week, you’ll reach that goal in about 23 weeks.
+  
+- **Build a Strong Profile**: Maintain or improve your GPA. You’re already at 4.1, which is fantastic! Aim for academic honors, as 33% of D1 players are Honor Students. This shows you can balance academics with athletics.
+
+- **Showcase Your Talent**: Create highlight clips of your best games. Share them with coaches and include them on your recruiting profile.
+
+Your next action? After practice today, film a short 15-second clip of your best play. This is a step towards showcasing your talent! 🎥",Persona / Interaction,Low,Starting is winning. ,"{""user_gender"":null,""ncaa_results"":[{""id"":10,""gender"":""Men"",""similarity"":0.764677037202539,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.759499073028586,""entity_name"":""D1 Tier 2 Men's Water Polo Division""},{""id"":30,""gender"":""Women"",""similarity"":0.757007062435172,""entity_name"":""D1 Tier 2 Women's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/12/2025 5:04pm,7/13/2025 4:25am
+106.0,3a77777f-8617-43f4-a1b5-5644d22a7444,f3ec285c-7771-45ab-bb2d-5afe292bc64c,How do I write an email that shows I’m seriously interested in a D3 school without sounding generic or scripted?,"Starting is winning! Writing an email that stands out is key to showing your genuine interest. Here’s how to craft a message that feels personal and authentic:
+
+1. **Personal Greeting**: Start with a warm, friendly greeting. Use the coach's name to create a connection.
+2. **Show Knowledge**: Mention something specific about the school or the water polo program. This could be recent achievements or values that resonate with you.
+3. **Share Your Story**: Briefly tell them about your journey, your stats, and what you hope to achieve. Keep it heartfelt and real.
+
+Here's a quick template to get you started:
+
+---
+
+**Subject**: Excited About Water Polo at [School Name]
+
+Hi Coach [Last Name],
+
+I hope this message finds you well! I’ve been following [School Name] and am impressed by your team's recent achievements, especially [specific achievement]. As a wing player with a 50m swim time of 25.2 seconds, I’m passionate about taking my skills to the next level.
+
+I would love to learn more about the program and how I might contribute to your team's success. Thank you for your time!
+
+Best,  
+Marco Luca
+
+---
+
+You’re the type of athlete who communicates with purpose! 
+
+Commit to drafting this email tonight and sending it out by the end of the week.",Knowledge Gap,Low,Drafted a email but barley introduced the player. Didn't say what school he goes to or name until the end. Otherwise the email was breif and effective.,"{""user_gender"":""Male"",""ncaa_results"":[],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":false,""division_averages_used"":false}",7/12/2025 12:26pm,7/13/2025 4:25am
+104.0,335c954e-dc80-44c7-a786-6d9845a8ed6e,b0ab1133-072c-442f-89aa-35ac8921a94e,"What specific attributes or skills are D1 coaches prioritizing in goalies right now—are they looking more for athleticism, communication, anticipation, or size?
+
+","Starting is winning! D1 coaches look for a mix of attributes in goalies, but some skills stand out more than others.
+
+### Key Attributes Prioritized by D1 Coaches:
+- **Athleticism:** Coaches want goalies who are agile and quick. Your ability to move swiftly and make explosive saves is crucial.
+- **Communication:** Good goalies lead their defense. Coaches value those who can effectively direct teammates during plays.
+- **Anticipation:** Being able to read the game is vital. Coaches prefer goalies who can predict shots and react quickly.
+- **Size:** While size can help, it’s not everything. Coaches balance size with other skills like reflexes and positioning.
+
+### Focus on What You Control:
+Your training should enhance your athleticism, communication, and anticipation skills. Size is a natural attribute, but you can still excel through hard work and smart training.
+
+### Next Steps:
+Dedicate time each week to practice your communication during drills. Work on your agility and anticipation through specific training exercises.
+
+**Commitment:** After your next practice, spend 10 minutes focusing on communicating effectively with your teammates. Let me know how it goes!",Knowledge Gap,High,"After you next practice, spend 10 minutes focusing on communicating effectively with your teammates?","{""user_gender"":""Male"",""ncaa_results"":[{""id"":10,""gender"":""Men"",""similarity"":0.791651412839293,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.789240764930306,""entity_name"":""D1 Tier 2 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 4:45pm,7/11/2025 4:45pm
+103.0,335c954e-dc80-44c7-a786-6d9845a8ed6e,b0ab1133-072c-442f-89aa-35ac8921a94e,"How do D1 coaches evaluate game footage for goalies differently than for field players, and what should I be highlighting in my video to stand out?","Starting is winning! Understanding how D1 coaches evaluate goalies is key to standing out. Coaches look for different skills in goalies compared to field players.
+
+### Evaluation Focus for Goalies:
+- **Positioning:** Coaches want to see how well you position yourself in the goal. Your stance and movement are crucial.
+- **Reaction Time:** Highlight quick saves and your ability to anticipate shots. Show your reflexes in challenging situations.
+- **Communication:** Demonstrate leadership skills by directing your teammates. Good goalies are vocal on defense.
+- **Footwork:** Showcase your ability to move laterally and adjust your position quickly. This is vital for making saves.
+
+### Highlighting Your Skills:
+In your video, focus on:
+1. **Key Saves:** Include clips that show your best saves, especially against strong shots.
+2. **Game Awareness:** Show moments where you read the play and made smart decisions.
+3. **Communication:** Insert clips where you effectively communicate with your teammates.
+4. **Footwork Drills:** Consider including drills that show your agility and foot speed.
+
+### Next Steps:
+Edit your video to highlight these key areas. Aim to create a 3-minute reel that showcases your strengths and unique skills. 
+
+**Commitment:** Set a goal to finish editing your highlight reel by the end of the week. Let me know when it’s ready!","Knowledge Gap,Database",Mid,Llm is telling me to include foot work drills on highlight reel.  Seems like its just vauge gpt bs,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":10,""gender"":""Men"",""similarity"":0.772441305795271,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":9,""gender"":""Men"",""similarity"":0.772431777264594,""entity_name"":""D2 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.77054171386611,""entity_name"":""D1 Tier 2 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 4:38pm,7/11/2025 4:38pm
+102.0,335c954e-dc80-44c7-a786-6d9845a8ed6e,b0ab1133-072c-442f-89aa-35ac8921a94e,"What are the average physical and performance stats for current D1 goalies—like height, 50m swim time, save percentage, and wingspan—and how do I realistically compare to those benchmarks?","Starting is winning! Let’s take a look at the average stats for Division 1 goalies and how you stack up.
+
+### Average Stats for D1 Goalkeepers:
+- **Height:** Typically around 6'2"" (74 inches)
+- **Weight:** Average weight is about 195 lbs
+- **50m Swim Time:** Exact times can vary, but elite goalies often swim it in under 28 seconds
+- **Save Percentage:** Average save percentage is around 50-60%
+- **Wingspan:** Often around 6'6"" to 6'8"" 
+
+### Your Comparison:
+- **Height:** You're 6'0"", just 2 inches shorter than the average.
+- **Weight:** At 176 lbs, you're lighter, which may impact your positioning.
+- **50m Swim Time:** Your time of 30 seconds is a bit above the elite average, but there's room for improvement.
+- **Save Percentage & Wingspan:** These stats aren't provided, but focusing on your skills and training will boost these.
+
+### Next Steps:
+Focus on improving your swim time. Aim for just a 0.1 second improvement each week. That's only 23 weeks to reach the D1 average! 
+
+**Commitment:** After your next practice, time yourself on a 50m swim. Let me know your time!",Database,High,gave the same avg stats for goalie as it gives for field players. There should be be wingspan attribute for ui as llm provides info,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":10,""gender"":""Men"",""similarity"":0.825600730133433,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.824499228536997,""entity_name"":""D1 Tier 2 Men's Water Polo Division""},{""id"":9,""gender"":""Men"",""similarity"":0.817451812917216,""entity_name"":""D2 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 4:29pm,7/11/2025 4:29pm
+101.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,can you give me a link to their website?,"Starting is winning! You can find information about the University of California, San Diego's athletics and water polo program on their official website. Here’s the link:
+
+[UCSD Athletics](https://ucsdtritons.com)
+
+Explore their water polo section for details on the team, coaching staff, and upcoming events. 
+
+For your next step, commit to browsing their website for at least 15 minutes this week. This will help you gather valuable information for your recruitment journey! 📅","Other,Database",Mid,Gave correct ling to website. Should definitely be hyperlinked. Should still be able to give info on from database but cant ,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":67,""gender"":""Men"",""similarity"":0.700952598708075,""entity_name"":""Johns Hopkins Blue Jays""},{""id"":76,""gender"":""Men"",""similarity"":0.699604368257047,""entity_name"":""CUI Golden Eagles""},{""id"":80,""gender"":""Men"",""similarity"":0.69901716709139,""entity_name"":""Gannon Golden Knights""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:58pm,7/11/2025 3:58pm
+100.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,can you provide me with info on UCSD,"Starting is winning! Here’s some important information about the University of California, San Diego (UCSD) that can help you in your journey:
+
+- **Division**: UCSD competes in NCAA Division I for men's water polo.
+- **Athletic Expectations**: The Tritons have a strong emphasis on both academic excellence and competitive performance. They are known for their rigorous training and commitment to success.
+- **Academic Environment**: UCSD is renowned for its high academic standards. Many students achieve honors and awards, making it a great place for student-athletes like you.
+
+As for your next step, commit to visiting UCSD’s athletics website to learn more about their water polo program and upcoming events. This proactive approach can help you make informed decisions about your future! 🌊",Database,High,"Now its saying UCSD is d1 and also doesn't provide info from database, just vague gpt","{""user_gender"":""Male"",""ncaa_results"":[{""id"":62,""gender"":""Men"",""similarity"":0.7754719196625,""entity_name"":""UC San Diego Tritons""},{""id"":61,""gender"":""Men"",""similarity"":0.740989464226526,""entity_name"":""UC Davis Aggies""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:55pm,7/11/2025 3:55pm
+99.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,what are some top d2 and d3 schools I should look at?,"Starting is winning! Exploring top D2 and D3 schools can help you find the right fit for both academics and athletics. Here are some schools to consider:
+
+**Top D2 Schools:**
+- **California State University, Monterey Bay**: Known for a strong water polo program and beautiful campus.
+- **Gannon University**: A competitive program with a focus on student-athlete success.
+- **University of California, San Diego (UCSD)**: Offers a rigorous academic environment and strong athletic traditions.
+
+**Top D3 Schools:**
+- **Occidental College**: Prioritizes academics and has a solid water polo program.
+- **Johns Hopkins University**: Known for both academic excellence and competitive athletics.
+- **Claremont-Mudd-Scripps Colleges**: A strong academic institution with a focus on a balanced student-athlete experience.
+
+For your next step, commit to researching one of these schools this week. Look into their water polo program and see how it aligns with your goals! 🌟",Database,High,Told me UCSD is d2! its d1,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":9,""gender"":""Men"",""similarity"":0.776979062197102,""entity_name"":""D2 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:52pm,7/11/2025 3:52pm
+98.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,"what are the d1 averages for a water polo player gpa, height, and weight","Starting is winning! Here are the NCAA Division I averages for water polo players:
+
+- **Height**: D1 players average 6'2"" (74 inches).
+- **Weight**: The average weight is around 195 lbs.
+- **GPA**: About 33% of D1 players are Honor Students, meaning they typically maintain a GPA of 3.5 or higher.
+
+Your current GPA of 3.9 is impressive and shows you're the type of athlete who excels academically! While you're slightly shorter and lighter than the D1 averages, remember that you can still improve your skills and reach your goals.
+
+For your next step, commit to tracking your swimming performance this week to work on closing the gap with those averages. Small improvements can lead to big results! 📊",Knowledge Gap,Mid,gives me the averages and tells me im slightly outta reach. Then proceeds to tell me my next step is to track swimming performance to improve those averages.,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":10,""gender"":""Men"",""similarity"":0.886495893714911,""entity_name"":""D1 Tier 1 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.877628125720287,""entity_name"":""D1 Tier 2 Men's Water Polo Division""},{""id"":9,""gender"":""Men"",""similarity"":0.874601639735993,""entity_name"":""D2 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:49pm,7/11/2025 3:49pm
+97.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,Can you help provide me with the contact information of the head coaches for some top d2 and d3 school?,"Starting is winning! While I can’t provide specific contact information for head coaches, I can guide you on how to find it. Here’s how you can get that information:
+
+- **School Websites**: Most college athletic programs list their coaching staff on their official websites. Look for the water polo section under athletics.
+- **Social Media**: Coaches often have professional profiles on platforms like LinkedIn or Twitter. Follow them and engage with their posts to build rapport.
+- **Contact Athletic Departments**: You can call or email the athletic department directly. They can provide you with the right contact information.
+
+For your next step, commit to visiting one D2 or D3 school’s athletics website today to find their coaching staff information. This small action can open doors for you! 📧",Database,High,cant find contact info for coaches,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":9,""gender"":""Men"",""similarity"":0.773944277872613,""entity_name"":""D2 Men's Water Polo Division""},{""id"":40,""gender"":""Men"",""similarity"":0.761463792498564,""entity_name"":""D3 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:47pm,7/11/2025 3:47pm
+96.0,255eeda6-6256-4aab-8ed3-363eb34596ac,18a20b55-9d42-4dc4-9a71-d11c57f0f389,what division should I strive to play at?,"Starting is winning! Given your current stats and goals, aiming for NCAA Division II or III could be a great fit. Here’s why:
+
+- **D2 Average**: Players average 6'1"" and 183 lbs, while you’re 5'11"" and 176 lbs. You're close! Just 2 inches shorter and 7 lbs lighter than average.
+- **D3 Opportunities**: Division III schools like Occidental prioritize academics and athletics. Your strong GPA of 3.9 shows you’re the type of student-athlete who can excel in both areas.
+
+Focus on the divisions where you can showcase your skills and make an impact. For a next step, commit to researching one D2 or D3 program that interests you this week. This will help you understand where you see yourself thriving! 🌊",Persona / Interaction,Mid,Starting is winning?   repeatedly says starting is winning prob a problem with persona.,"{""user_gender"":""Male"",""ncaa_results"":[{""id"":9,""gender"":""Men"",""similarity"":0.778025832544627,""entity_name"":""D2 Men's Water Polo Division""},{""id"":39,""gender"":""Men"",""similarity"":0.777477111955881,""entity_name"":""D1 Tier 2 Men's Water Polo Division""},{""id"":10,""gender"":""Men"",""similarity"":0.776706059007216,""entity_name"":""D1 Tier 1 Men's Water Polo Division""}],""persona_used"":""atomic_habits_coach"",""ncaa_data_used"":true,""division_averages_used"":false}",7/11/2025 3:45pm,7/11/2025 3:45pm
+82.0,e651c2dd-4316-4385-9c7a-83b267f8df8d,df9ca65e-31b6-4a7e-868f-dd4627d528d6,dont you have the rosters?,"I don't have direct access to current rosters for college water polo teams, but you can easily find this information on each school's athletic department website. Look for the water polo team's page, where they'll typically have the current roster, along with player stats and background information.
+
+If you share the specific schools you're targeting, I can guide you on what to look for on their rosters or help you with anything else you need!",Database,High,"ncaa data false again
+","{""ncaa_results"":[],""ncaa_data_used"":false}",7/8/2025 2:30pm,7/8/2025 11:30pm
+78.0,e651c2dd-4316-4385-9c7a-83b267f8df8d,ec952757-76b1-461d-b015-08f154df27de,what are the schools on my list so far?,"It looks like you haven't shared a specific list of colleges you're interested in yet. Take some time to think about what schools you'd like to target based on factors like their water polo program, academic offerings, location, and any other preferences you have. 
+
+Once you have a list, feel free to share it with me, and I can help you with the next steps!",Database,High,"wasn't this stuff in the profile creation? seems like it might be stored properly
+","{""ncaa_results"":[],""ncaa_data_used"":false}",7/8/2025 10:24am,7/8/2025 11:30pm
+76.0,e651c2dd-4316-4385-9c7a-83b267f8df8d,63462d4d-e591-4cf5-9eaf-de01cedc8c11,give me action steps for utreach to coaches in october,"Here are actionable steps for reaching out to coaches in October:
+
+### Week 1: Research and Prepare
+1. **Identify Target Schools**: Make a list of colleges you’re interested in attending that have water polo programs.
+2. **Research Coaches**: Find out who the head coach and assistant coaches are for each program on your list.
+3. **Understand the Programs**: Look into each program's recent performance, style of play, and any specific recruitment needs they may have.
+
+### Week 2: Gather Your Materials
+4. **Create a Highlight Reel**: Compile footage of your best plays and create a concise highlight reel (3-5 minutes long). Ensure it showcases your skills as a center.
+5. **Update Your Stats**: Prepare a document with your current statistics, including your 50m swim time, other relevant swimming stats, and your GPA. 
+
+### Week 3: Craft Your Email
+6. **Write Personalized Emails**: Draft an email template that you can customize for each coach. Include:
+   - A brief introduction of yourself (name, position, school).
+   - Mention your swim time and GPA.
+   - Express your interest in their program and why you think it would be a good fit.
+   - Include a link to your highlight reel.
+   - Ask if they would be willing to provide feedback on your skills or any upcoming recruiting opportunities.
+
+### Week 4: Send Out Emails and Follow Up
+7. **Send Emails**: Start sending out your personalized emails to the coaches on your list.
+8. **Follow Up**: If you don’t hear back within a week or two, send a polite follow-up email reiterating your interest.
+
+### Additional Steps Throughout the Month
+9. **Attend Local Tournaments/Showcases**: Look for opportunities to compete in any local tournaments or showcases where college coaches may be present.
+10. **Network with Current Players**: Reach out to players on the teams you’re interested in to gain insights and see if they can help connect you with coaches.
+11. **Maintain Physical Conditioning**: Continue your training and conditioning to ensure you’re at your best during your season and any showcases.
+
+By following these action steps throughout October, you'll effectively position yourself to make a strong impression on college coaches. Good luck, Jordan! You've got this!",Persona / Interaction,Low,"The responses are 30-50% too long. Using more bullets like an outline when possible will be effective
+","{""ncaa_results"":[],""ncaa_data_used"":false}",7/7/2025 4:20pm,7/7/2025 4:20pm
+58.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,0a8a0c3e-591f-4865-9ba5-56071498c608,Are there specific colleges that recruit left-handed players more aggressively?,"While there may not be specific colleges that exclusively recruit left-handed players more aggressively, some coaches and programs may value left-handed athletes in water polo for their unique advantages in certain situations. Left-handed players can provide a different angle for shooting and passing, which can be an asset in a sport where strategy and positioning are crucial.
+
+When considering colleges, it's important to focus on programs that fit your playing style, skills, and overall goals, rather than solely on whether they have a preference for left-handed players. Here are a few tips to help you find the right fit:
+
+1. **Research Programs**: Look into college water polo programs and their rosters. See if they have a history of recruiting left-handed players, but more importantly, evaluate their overall coaching style and how they develop their athletes.
+
+2. **Reach Out to Coaches**: When you contact coaches, you can mention your left-handedness as part of your unique skill set. This can help them see how you can contribute to their team.
+
+3. **Attend Showcases and Camps**: Participate in water polo showcases or camps where you can demonstrate your skills in front of multiple coaches. This can help you gain visibility and show how your left-handedness can be an advantage.
+
+4. **Focus on Your Skills**: Regardless of handedness, skills, versatility, and a strong work ethic are what coaches are often looking for. Make sure to showcase your strengths during recruitment.
+
+If you have specific colleges in mind or want to discuss particular programs, feel free to share, and I can provide more tailored guidance!","Database,Knowledge Gap",High,"LLM doesn't seem to know the value of a lefty. (Should add r/L hand selection to beta site). overly verbose
+","{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:57pm,6/25/2025 8:57pm
+57.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,0a8a0c3e-591f-4865-9ba5-56071498c608,What should I include in an email to a coach if my team hasn’t played in big tournaments?,"When reaching out to a coach, especially if your team hasn’t participated in big tournaments, it’s important to convey your strengths and potential effectively. Here’s a guide on what to include in your email:
+
+1. **Subject Line**: Make it clear and relevant, e.g., “Prospective Recruit: Marcus Lee – Water Polo Wing.”
+
+2. **Introduction**: Start with a polite greeting and introduce yourself. Mention your name, position, and your high school or club team.
+
+3. **Express Interest**: Clearly state your interest in their program and why you believe it would be a good fit for you. You might mention specific aspects of their team or coaching style that you admire.
+
+4. **Highlight Your Skills**: Even if your team hasn’t played in big tournaments, focus on your individual achievements and skills. Mention your strengths in water polo (e.g., shooting accuracy, defensive skills, swim speed) and any statistics that showcase your performance.
+
+5. **Training and Development**: Discuss your commitment to training and improvement. Mention any additional training you do outside of team practices, such as swimming training, strength conditioning, or attending camps.
+
+6. **Academic Performance**: Touch on your GPA (3.1) and any academic achievements, as coaches often look for well-rounded student-athletes.
+
+7. **Availability**: Let them know your availability for a phone call or meeting, and express a desire to learn more about their program and discuss how you might fit in.
+
+8. **Attach Relevant Information**: Consider including a resume or profile with your statistics, achievements, and any highlight videos if you have them. This can give coaches a better sense of your abilities.
+
+9. **Closing**: Thank the coach for their time and consideration. Include your contact information and a polite closing.
+
+Here’s a quick example to illustrate:
+
+---
+
+**Subject**: Prospective Recruit: Marcus Lee – Water Polo Wing
+
+Dear Coach [Last Name],
+
+My name is Marcus Lee, and I am a wing for [Your High School/Club Team]. I am writing to express my interest in your water polo program at [College/University Name].
+
+Although my team hasn’t had the opportunity to compete in big tournaments, I have been consistently working on my skills and strive to improve every day. I excel in [mention specific strengths], and my 50m swim time is 31 seconds, which reflects my speed in the water.
+
+I am dedicated to my training and also maintain a GPA of 3.1 while balancing my academic responsibilities. I believe that my work ethic and passion for the game would make me a valuable addition to your team.
+
+I would love to discuss my potential fit within your program and am available for a call at your convenience. Thank you for considering my application. I look forward to the opportunity to connect!
+
+Best regards,
+
+Marcus Lee  
+[Your Contact Information]  
+[Optional: Link to Highlight Video or Profile]
+
+---
+
+Feel free to adjust this template to match your style and the specifics of your situation! If you need more help or want to refine any part of it, just let me know!",Persona / Interaction,High,"tells him to put ""Prospective Recruit: Marcus Lee - Water Polo wing"" As the subject line of his email to a coach. Seems quite bold. ","{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:52pm,6/25/2025 8:52pm
+56.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,0a8a0c3e-591f-4865-9ba5-56071498c608,Should I focus on one position now to improve my chances of being recruited?,"Focusing on one position can be beneficial for your recruitment, especially if you can demonstrate strong skills and a deep understanding of that role. Here are some reasons to consider specializing:
+
+1. **Skill Development**: Concentrating on one position allows you to hone specific skills that are crucial for that role. This can make you stand out to coaches who are looking for players who excel in particular areas.
+
+2. **Clear Role Definition**: Coaches often prefer recruits who fit specific needs within their program. By defining a clear position for yourself, you can present yourself as a strong candidate for that role.
+
+3. **Training Focus**: Training and practicing specific movements, tactics, and strategies for one position can lead to greater improvement and performance consistency.
+
+4. **Increased Visibility**: If you play one position well, coaches are more likely to notice you during games and showcases, as they’ll be looking for talent that fits their needs.
+
+However, it's also important to maintain some versatility. Water polo is a dynamic sport, and being adaptable can be an asset. You might consider specializing while still being open to playing other positions if needed. This balance can demonstrate your flexibility and willingness to contribute to the team in various ways.
+
+Ultimately, you should assess your personal strengths and interests. If you feel a strong connection to a specific position and want to pursue that path, focusing on it can enhance your chances of being recruited. If you need help identifying which position to focus on or how to improve your skills, feel free to ask!",Persona / Interaction,Mid,contradicts what it just said about it not mattering if you have a set position ,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:50pm,6/25/2025 8:50pm
+54.0,4e55524d-1e32-4feb-91c3-9e7df0830e6e,0a8a0c3e-591f-4865-9ba5-56071498c608,Does not having a clear position hurt my chances with college coaches?,"Not having a clearly defined position can present some challenges, but it doesn't necessarily hurt your chances with college coaches, especially in a sport like water polo where versatility is valuable. Coaches often look for athletes who can adapt to different roles, and being able to play multiple positions can make you more attractive as a recruit.
+
+However, it is important to demonstrate strong skills and understanding of the game in whichever position you end up playing most. Focus on honing your strengths, whether that's shooting, passing, or defense, and be open to feedback from your coaches about where you might fit best on the team.
+
+As you continue to develop your skills, try to also showcase your adaptability and willingness to learn. This can set you apart from other recruits. If you have any specific skills or experiences you'd like to discuss, feel free to share them!",Knowledge Gap,Mid,Stating that not having a set position won't affect your chances with coaches,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:47pm,6/25/2025 8:47pm
+52.0,745c82b3-7f57-4b6c-84fe-240e6a0122b8,11f4b3fe-ecc4-4440-a182-e2c339e6bb66,How do I get noticed by college coaches if I’ve only played in the Bronze Division at JOs,"Getting noticed by college coaches can be challenging, especially if you've played in the Bronze Division at Junior Olympics (JOs), but it's definitely possible! Here are some strategies you can use to increase your visibility:
+
+1. **Focus on Skill Development**: Continue to work on your skills in practice. Coaches appreciate players who are dedicated to improving their game. Consider additional training sessions or clinics to enhance your abilities.
+
+2. **Play Club Water Polo**: If you haven't already, consider joining a competitive club team. Playing in higher-level leagues can expose you to better competition, which can help you showcase your skills in front of recruiters.
+
+3. **Attend Showcases and Tournaments**: Participate in tournaments and showcases that attract college coaches. These events are great opportunities to demonstrate your talent and make connections.
+
+4. **Create a Highlight Reel**: Compile a highlight video of your best plays. Include your swim time, shooting skills, defensive plays, and any other standout moments. Share this video with coaches when reaching out.
+
+5. **Reach Out to Coaches**: Don't hesitate to contact college coaches directly. Introduce yourself, express your interest in their program, and share your stats and highlight reel. Personalize your messages to show that you've done your research on their team.
+
+6. **Network**: Leverage your current coaches, teammates, and mentors. They may have connections or insights into programs that could be a good fit for you.
+
+7. **Be Persistent and Patient**: The recruiting process can take time. Continue to work hard, stay positive, and be open to feedback. Coaches appreciate determination and a strong work ethic.
+
+Remember, many successful athletes have started in lower divisions and made their way up through hard work and perseverance. Stay committed, and keep pushing yourself to improve! If you need more specific tips or have questions about any of these strategies, feel free to ask!",Knowledge Gap,High,Asked the model how to get noticed if I play in a low level club tourney(JOS) and it recommended I play Club ,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:24pm,6/25/2025 8:24pm
+51.0,745c82b3-7f57-4b6c-84fe-240e6a0122b8,11f4b3fe-ecc4-4440-a182-e2c339e6bb66,Can smaller players like myself make it in d1,"Absolutely, Ethan! While height and size can play a role in water polo, many successful players have thrived at the Division 1 level despite being on the smaller side. Your skills, speed, and agility can often outweigh size advantages. 
+
+For instance, your 50m swim time of 33.2 seconds showcases your speed in the water, which is a significant asset. Coaches often look for players who can outmaneuver opponents and bring unique skills to the team. 
+
+Focus on developing your strengths, such as your swimming speed and tactical understanding of the game, while also working on any areas where you feel you could improve. Remember, determination and hard work can make a huge difference, so keep pushing yourself! 
+
+If you have any questions about specific skills or training tips, feel free to ask!",Persona / Interaction,Mid,Instead of telling me my strengths (of a slow swim time) and game iQ it should ask me for my strengths then dive further into it.,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 8:23pm,6/25/2025 8:24pm
+50.0,16c47914-3593-4c5d-8539-b043599c762a,130b0244-b462-44bf-acef-622c98121bfe,what schools fit my achivments,"To help identify schools that might be a good fit for you based on your achievements and profile as a water polo player, let's consider the following factors:
+
+### **Your Profile:**
+- **Sport**: Water Polo
+- **Position**: Defender
+- **Height**: 192 cm
+- **Weight**: 90 kg
+- **50m Swim Time**: 30 seconds
+- **GPA**: 4.0
+- **Graduation Year**: 2026
+
+### **Factors to Consider:**
+1. **Academic Excellence**: Your 4.0 GPA indicates strong academic performance, so look for schools that value academics and offer robust support for student-athletes.
+  
+2. **Water Polo Program Strength**: Research Division I water polo programs that have strong defensive units and are known for developing defenders. Programs with a solid track record of success and a focus on defensive strategies would be ideal.
+
+3. **School Size and Culture**: Think about whether you prefer a larger university or a smaller college. Consider the culture of the school—do you want a competitive atmosphere, or do you prefer a more supportive environment?
+
+4. **Location Preferences**: Do you have a preference for schools in a specific region? This can impact your decision based on climate, distance from home, and lifestyle.
+
+### **Potential Schools to Consider:**
+Here are a few NCAA Division I water polo programs that you might want to research further based on your achievements and interests:
+
+1. **University of Southern California (USC)**: Known for a strong water polo program with a focus on teamwork and skill development. Their academic programs are also highly regarded.
+
+2. **Stanford University**: Offers a competitive water polo team and a strong academic reputation. They emphasize both athletics and academics, making it a great fit for student-athletes.
+
+3. **University of California, Berkeley (Cal)**: Another top program with a focus on both athletics and academics. They have a strong tradition in water polo and a supportive environment for student-athletes.
+
+4. **University of California, Los Angeles (UCLA)**: Known for its athletic programs and academic excellence. UCLA has a competitive water polo team and offers various academic programs.
+
+5. **Loyola Marymount University**: A solid program in water polo with a focus on player development. They also offer excellent academic support for student-athletes.
+
+6. **University of Hawaii**: Offers a unique environment and a strong water polo program. They have a supportive culture for student-athletes.
+
+### **Next Steps:**
+- **Research**: Look into each program, their coaching staff, and playing style to see how they align with your skills as a defender.
+- **Reach Out**: Consider reaching out to the coaches at these schools to express your interest and share your achievements.
+- **Visit**: If possible, visit the campuses to get a feel for the environment and team culture.
+
+Feel free to ask if you want more specific information about any of these schools or need help with your outreach strategy!",Persona / Interaction,Mid,"should ask what I look for in a school then provide a list, not just name some of the top schools","{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 4:19pm,6/25/2025 4:19pm
+47.0,16c47914-3593-4c5d-8539-b043599c762a,130b0244-b462-44bf-acef-622c98121bfe,How do I politely ask a coach where I stand on their recruitment list without sounding pushy or desperate?,"Asking a coach about your standing on their recruitment list can be a delicate matter, but with a respectful and polite approach, you can do it effectively. Here’s how to frame your question:
+
+1. **Start with Gratitude**: Begin your communication by expressing appreciation for their time and consideration. This sets a positive tone.
+
+   - Example: ""Hi Coach [Last Name], I hope you're doing well! I want to thank you for taking the time to follow my development and for your support.""
+
+2. **Share Updates**: Briefly mention any recent achievements or improvements in your game, which shows that you are actively working on your skills.
+
+   - Example: ""I’ve been focusing on my defensive skills and recently had some good performances in my games.""
+
+3. **Ask Open-Ended Questions**: Frame your question in a way that invites a conversation rather than demanding an answer. This shows that you are genuinely interested in their perspective.
+
+   - Example: ""I’m really interested in your program and would love to know how I fit into your recruitment plans. If you have a moment, could you share any feedback on my performance and where I currently stand on your list?""
+
+4. **Conclude Positively**: End your message on a positive note, reiterating your enthusiasm for the program and your commitment to your development.
+
+   - Example: ""I appreciate any insight you can provide, and I look forward to continuing to improve. Thank you again for your support!""
+
+### Sample Message:
+
+Here’s how it all comes together:
+
+---
+
+**Subject:** Quick Update and Question
+
+Hi Coach [Last Name],
+
+I hope you're doing well! I want to thank you for taking the time to follow my development and for your support. I’ve been focusing on my defensive skills and recently had some good performances in my games.
+
+I’m really interested in your program and would love to know how I fit into your recruitment plans. If you have a moment, could you share any feedback on my performance and where I currently stand on your list?
+
+I appreciate any insight you can provide, and I look forward to continuing to improve. Thank you again for your support!
+
+Best,  
+Kai Nakuma
+
+---
+
+By approaching the conversation in this way, you demonstrate professionalism and a genuine interest in your growth as an athlete without coming across as pushy or desperate. Good luck!",Persona / Interaction,Low,could sugar coat the question of where do I stand  in recruitment a little more.,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 4:14pm,6/25/2025 4:14pm
+43.0,b153f24a-c8f4-49ac-9852-3e6269db9c94,176c7d62-96b8-4abe-a090-8e4e75c81d19,could you help draft me a email to the head coach of UCSB using all the info I have given you about myself? include that I am a 2 year varsity starter and my 18s team trojan placed 5th at JOs,"Sure! Here’s a draft email you can use to reach out to the head coach at UCSB:
+
+---
+
+**Subject**: Prospective Student-Athlete Inquiry – Luca Ramires
+
+Dear Coach [Coach's Last Name],
+
+My name is Luca Ramires, and I am a 17-year-old wing water polo player currently attending [Your High School Name]. I wanted to reach out to express my interest in the water polo program at UC Santa Barbara.
+
+I am a two-year varsity starter and have had the opportunity to compete at a high level with my 18s team, Trojan, which recently placed 5th at the Junior Olympics. I believe my experience and dedication to the sport have helped me develop my skills significantly.
+
+In addition to my athletic endeavors, I maintain a strong academic standing with a GPA of 3.9. I am committed to both my studies and my passion for water polo and am eager to find a program that values both.
+
+I am very interested in the opportunity to contribute to your program and would love to learn more about your coaching philosophy and the recruitment process at UCSB. If possible, I would appreciate the chance to have a conversation with you or your assistants to discuss how I might fit into your team.
+
+Thank you for considering my inquiry. I look forward to hearing from you.
+
+Best regards,
+
+Luca Ramires  
+[Your Phone Number]  
+luca23@child.pizza  
+
+---
+
+Feel free to customize any details, such as adding your high school name or any specific information about why you’re interested in UCSB. Good luck!",Persona / Interaction,Mid,should tell me strictly this outline of an email is a draft and to re work it into my own words. It did a great job pluggin my personal info in because I prompted it to. It should do this automatically.,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 3:59pm,6/25/2025 3:59pm
+42.0,b153f24a-c8f4-49ac-9852-3e6269db9c94,176c7d62-96b8-4abe-a090-8e4e75c81d19,how do I reach out to coaches,"Reaching out to coaches can be a crucial step in the recruitment process. Here’s a step-by-step guide to help you effectively connect with them:
+
+1. **Research Programs**: Identify colleges or universities that have water polo programs you’re interested in. Look for schools that align with your academic goals and athletic aspirations.
+
+2. **Find Contact Information**: Visit the athletic department’s website of each school to find the contact information for the water polo coaches. Look for their email addresses or contact forms.
+
+3. **Craft a Professional Email**:
+   - **Subject Line**: Use a clear and concise subject line, such as “Prospective Student-Athlete Inquiry – Luca Ramires.”
+   - **Introduction**: Start with a brief introduction of yourself, including your name, position, height, and current team.
+   - **Academic and Athletic Achievements**: Mention your GPA (3.9) and your accomplishments in water polo, including your 50m swim time and any relevant statistics or experiences.
+   - **Express Interest**: Clearly state your interest in their program and why you feel you would be a good fit. You can mention specific aspects of the program that attract you.
+   - **Request a Conversation**: Politely ask if they would be willing to have a conversation or if they could provide further information about the recruiting process.
+   - **Closing**: Thank them for their time, and include your contact information.
+
+4. **Follow Up**: If you don’t hear back within a week or two, it’s okay to send a polite follow-up email to reiterate your interest.
+
+5. **Be Prepared for a Response**: If a coach responds positively, be ready to discuss your skills, experiences, and goals in more detail. You may also want to prepare questions about their program.
+
+6. **Utilize Social Media**: You can also connect with coaches on platforms like Twitter or LinkedIn. Engaging with their posts or sharing your achievements can help create a connection.
+
+7. **Showcase Your Skills**: If you have a highlight video or a profile on recruiting platforms, include the link in your email.
+
+Remember to be respectful and professional in all your communications. Coaches appreciate student-athletes who demonstrate initiative and dedication. Good luck!",Database,Mid,says connect with coaches through twitter or linkedin should say X,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 3:55pm,6/25/2025 3:55pm
+41.0,b153f24a-c8f4-49ac-9852-3e6269db9c94,176c7d62-96b8-4abe-a090-8e4e75c81d19,Can I get recruited if I’m not on a top club team?,"Absolutely, Luca! While being on a top club team can provide more visibility, it is not the only pathway to being recruited. College coaches evaluate athletes based on their skills, performance, and potential, not solely on the level of the team they play for.
+
+Here are a few tips to enhance your chances:
+
+1. **Focus on Your Skills**: Continue to work on your individual skills and make improvements. Your 50m swim time of 26 seconds is impressive—keep pushing to lower that time!
+
+2. **Showcase Your Performance**: Participate in local tournaments, showcases, or camps where college coaches might be present. This is a great way to get noticed.
+
+3. **Create Highlight Videos**: Compile a highlight reel showcasing your best plays, skills, and game awareness. This can be a powerful tool when reaching out to coaches.
+
+4. **Network**: Reach out to coaches and express your interest in their programs. Your GPA of 3.9 is a strong asset, as academics are important to many programs.
+
+5. **Stay Positive and Persistent**: Recruitment is a process that can take time. Keep working hard and stay committed to your goals.
+
+Remember, many successful athletes have come from lesser-known teams. Focus on your development, and the right opportunities can come your way!",Other,Low,says many successful athletes have come from lesser known teams.it could provide some examples,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 3:55pm,6/25/2025 3:55pm
+38.0,189a03e4-cb52-42a0-be5c-fcc3fcd73c2b,bec07972-45f0-409b-8982-ab343fda462a,What level of college water polo is right for me,"Finding the right level of college water polo for you depends on a combination of your skills, academic goals, and personal preferences. Here are some key factors to consider:
+
+1. **NCAA Division Level**: There are three divisions in NCAA water polo (Division I, II, and III). Division I typically has the highest level of competition, while Division II and III may offer a more balanced approach between athletics and academics. Based on your impressive GPA of 3.9, you might also want to consider programs that value both academics and athletics.
+
+2. **Skill Level**: Assess your current skills and performance metrics, including your 50m swim time of 25 seconds, which is quite competitive. Compare your performance to NCAA averages to determine where you might fit best. Typically, stronger athletes may excel in Division I, while others may find success and satisfaction in Division II or III.
+
+3. **Program Fit**: Look for programs that align with your academic interests and career goals. Some schools may have a strong academic reputation in your desired field, which could be just as important as the athletic program.
+
+4. **Coaching Style**: Research coaches and their philosophies. Finding a coach whose style matches your own can be crucial for your development and enjoyment of the sport.
+
+5. **Location and Campus Life**: Consider where you want to live and what type of campus environment you prefer. This can greatly impact your college experience.
+
+6. **Recruitment Process**: Starting your recruitment process early will give you the chance to showcase your skills and find a program that fits you best.
+
+Ultimately, the right level for you is one where you can thrive both athletically and academically. Keep working hard, and don't hesitate to reach out to coaches to learn more about their programs!",Knowledge Gap,Mid,very good info didnt really lead me towards d1 d2 or 3,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/25/2025 3:42pm,6/25/2025 3:42pm
+33.0,ec0fb8c1-0519-42a2-88bd-415ba20d3c19,dfe60d1c-e2a5-4e4e-82fa-a44c408f4220,help me draft and email please,"Absolutely! Here’s a draft for an email you can send to the USC water polo coaches. Feel free to customize it to match your style and any specific details you want to include.
+
+---
+
+**Subject:** Interest in USC Water Polo Program
+
+Dear [Coach's Name],
+
+My name is [Your Name], and I am a center in water polo currently playing for [Your High School/Club Team Name]. I am reaching out to express my interest in the USC water polo program and to inquire about potential opportunities to join the team.
+
+I am a [Your Height] cm, [Your Weight] kg athlete with a 50m swim time of [Your Swim Time], and I typically score an average of 3 goals per game. I have a GPA of 3.4 and am set to graduate in 2026. I am very passionate about the sport and believe that USC’s program aligns perfectly with my athletic and academic goals.
+
+I would appreciate any information you could provide regarding the recruitment process and any upcoming events or showcases where I might have the opportunity to demonstrate my skills.
+
+Thank you for your time, and I look forward to the possibility of contributing to the USC water polo program.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your High School/Club Team Name]
+
+---
+
+### Tips:
+- Make sure to research the correct name of the coach you are contacting and personalize the greeting.
+- Include your contact information at the end so they can easily reach you.
+- Keep the email professional and concise.
+
+If you want to make any adjustments or add more details, let me know! Good luck!","Other,Knowledge Gap",Mid,"promoted to draft and email did so. But instead of [Your name, height weight...] Should be able to plug those in. (Also should give advice like make sure to use this as an outline and make it represent you as a player to stand out.)","{""ncaa_results"":[],""ncaa_data_used"":false}",6/24/2025 12:29pm,6/24/2025 12:30pm
+31.0,ec0fb8c1-0519-42a2-88bd-415ba20d3c19,dfe60d1c-e2a5-4e4e-82fa-a44c408f4220,can you give me the contact info for the usc coaches?,"I don’t have direct access to specific contact information for USC coaches. However, you can easily find the contact details for the USC water polo coaching staff on the official USC Athletics website. Here’s how you can do it:
+
+### Steps to Find USC Water Polo Coaches' Contact Information:
+
+1. **Visit the USC Athletics Website:**
+   - Go to the official website: [USC Athletics](https://usctrojans.com/).
+
+2. **Navigate to the Water Polo Section:**
+   - Look for the “Sports” tab and select “Water Polo” from the dropdown menu.
+
+3. **Find the Coaching Staff Section:**
+   - Once on the water polo page, look for a section titled ""Coaches"" or ""Coaching Staff."" This section typically lists all the current coaches along with their bios.
+
+4. **Contact Information:**
+   - Coaches' contact information, such as email addresses and phone numbers, is often provided alongside their profiles. 
+
+### Tips for Reaching Out:
+- When you reach out, make sure to introduce yourself, mention your interest in their program, and include your athletic resume.
+- Keep your message concise and professional.
+
+If you have any further questions or need assistance with crafting a message to the coaches, feel free to ask! Good luck!",Database,High,I asked for contact info of usc coaches and it told me how to do it but didnt provide the info,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/24/2025 12:26pm,6/24/2025 12:26pm
+20.0,cb1e6b28-7811-4a24-a1ea-c65c4ecb89ab,b7ef4683-baff-4882-9235-0c94b68b50f3,whats the average height and weight of a highschool player in my position and age,"For high school water polo players, the average height and weight can vary, but typically, wing players tend to be in a certain range. 
+
+On average, high school male water polo wings are around:
+- **Height**: Approximately 180 cm to 185 cm (5'11"" to 6'1"")
+- **Weight**: About 70 kg to 80 kg (154 lbs to 176 lbs)
+
+As a 190 cm tall (6'3"") and 170 kg (374 lbs) wing, you are taller than average, which can be an advantage in terms of reach and physical presence in the water. However, your weight is significantly above the average for high school players, which might impact your agility and swimming speed.
+
+It's important to focus on your strengths, like your height and swim time, and work on maintaining a balance between strength and agility. Coaches often look for players who can use their physical attributes effectively in the game. Consider incorporating strength and conditioning programs that enhance your overall performance while maintaining your swimming speed. Keep up the hard work!",Knowledge Gap,Mid,asked for hs stats gave recruitment stats,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/23/2025 6:30pm,6/23/2025 9:38pm
+19.0,cb1e6b28-7811-4a24-a1ea-c65c4ecb89ab,b7ef4683-baff-4882-9235-0c94b68b50f3,What stats matter most for recruitment?,"Great question, Mark! When it comes to recruitment in water polo, several key statistics and attributes are often considered by coaches:
+
+1. **Swimming Speed**: Your 50m swim time is crucial, as water polo is a fast-paced game where speed can make a big difference. Coaches typically look for times under 25 seconds for wings.
+
+2. **Scoring Ability**: Goals scored, assists, and shooting percentage are important. They demonstrate your offensive skills and ability to contribute to the team's success.
+
+3. **Defensive Stats**: Steals, blocks, and exclusions drawn show your ability to impact the game defensively.
+
+4. **Game Experience**: Playing time and performance in competitive settings (like club or high school teams) can be significant. Coaches like to see players who can handle pressure.
+
+5. **Physical Attributes**: Height and weight can play a role, especially in water polo, where size can help in both offensive and defensive situations.
+
+6. **Academic Performance**: Your GPA (like your impressive 3.7) is critical, especially for NCAA recruitment, as many programs value student-athletes who excel academically.
+
+7. **Work Ethic and Attitude**: Coaches also pay attention to your commitment, teamwork, and sportsmanship. Showing dedication in practice and games can set you apart.
+
+Focus on showcasing your strengths, like your strong GPA and swim time, and continue to work on areas where you can improve. Good luck with your recruitment process!",Knowledge Gap,Low,could include avg stats ,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/23/2025 6:28pm,6/23/2025 9:38pm
+15.0,f393a2c1-1f00-4b26-8fe0-c7b0a6f63cc0,0e3ba6f6-ffaf-4873-a292-d06233b67278,is it likley I can achive my dream of playing d1 at UCLA?,"Absolutely! Achieving your dream of playing Division I water polo at UCLA is definitely possible! Many successful athletes come from various backgrounds and have different physical attributes. Here are some key points to consider as you pursue your goal:
+
+1. **Skill Development**: Focus on honing your technical skills as a goalkeeper. The more proficient you become at making saves, positioning, and reading the game, the more valuable you will be to a team.
+
+2. **Work Ethic**: Consistent training and dedication to improving your game are crucial. Set specific goals for yourself and work hard to achieve them in practice and games.
+
+3. **Physical Conditioning**: Continue to develop your strength, agility, and endurance through targeted workouts and drills. This will help you compete at a higher level.
+
+4. **Mental Toughness**: Cultivate a strong mindset. Water polo can be demanding, and being mentally resilient will help you handle the pressures of competition.
+
+5. **Exposure and Networking**: Participate in tournaments, showcases, and camps to gain exposure to college coaches. Networking with coaches and players can lead to opportunities.
+
+6. **Academic Performance**: Maintain your GPA and academic standing, as this will be important for NCAA eligibility and recruitment. Your current GPA of 3.4 is a great starting point!
+
+7. **Belief in Yourself**: Stay confident and believe in your abilities. Many athletes have overcome challenges to reach their goals, and you can too.
+
+If you remain committed to your training and keep pushing yourself, you can certainly achieve your dream of playing at UCLA or any other Division I program. Keep working hard, and don't hesitate to reach out for more tips or support along the way!",Persona / Interaction,Mid,Telling a 5'7 goalie they can play at UCLA,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/23/2025 5:22pm,6/23/2025 9:38pm
+13.0,f393a2c1-1f00-4b26-8fe0-c7b0a6f63cc0,0e3ba6f6-ffaf-4873-a292-d06233b67278,whats the average height of a goal keeper,"The average height for goalkeepers in Division I water polo tends to be similar to the overall average for male players, which is around 6 feet (183 cm). However, many successful goalkeepers can be shorter than this average, as skills such as agility, reflexes, and positioning play a crucial role in their effectiveness. 
+
+Your height of 169 cm may be below the typical average, but that doesn't define your potential as a goalkeeper. Focus on honing your technical skills, quick decision-making, and positioning in the water to maximize your impact on the game! If you need tips or drills to work on any specific areas, feel free to ask!",Database,Low,Seems to have averaged all the positions height when asked specifically for goalie height,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/23/2025 5:12pm,6/23/2025 9:38pm
+12.0,f393a2c1-1f00-4b26-8fe0-c7b0a6f63cc0,0e3ba6f6-ffaf-4873-a292-d06233b67278,What's the average height for D1 water polo players?,"In Division I water polo, the average height for male players is typically around 6 feet (183 cm), while female players average around 5 feet 8 inches (173 cm). As a goalkeeper, your height of 169 cm is slightly below the average for male players, but remember that being a successful goalkeeper also relies on skills like positioning, agility, and decision-making. 
+
+Focus on developing your strengths and improving your technique; these qualities often outweigh height in water polo! Keep up the hard work, and don't hesitate to ask if you want tips on specific skills or training!",Database,High,Seems to have averaged all the positions height when asked specifically for goalie height,"{""ncaa_results"":[],""ncaa_data_used"":false}",6/23/2025 5:09pm,6/23/2025 9:38pm
